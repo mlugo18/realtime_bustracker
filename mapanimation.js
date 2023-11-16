@@ -14,7 +14,7 @@ const busStops = [
     [-71.118625, 42.374863],
   ];
   
-  // **ADD YOUR OWN MAPBOXGL ACCESS TOKEN** //
+  // **REPLACE WITH YOUR OWN MAPBOXGL ACCESS TOKEN** //
   mapboxgl.accessToken = 'pk.eyJ1IjoibWx1Z29taXRjYW1wIiwiYSI6ImNsb2thN25wNjBkNnoycW9hYTZxbXE0NTYifQ.XxGj_PmIrsQx5NyXnXHzLA';
   
   // This is the map instance.
